@@ -1,0 +1,4 @@
+#Thu Mar 07 12:18:54 IST 2019
+base.0=C\:\\Users\\ACER\\AndroidStudioProjects\\GITHUB\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
